@@ -1,0 +1,17 @@
+C:\Users\muham\csvToSql\SynelProject.Service\bin\Debug\net6.0\SynelProject.Service.deps.json
+C:\Users\muham\csvToSql\SynelProject.Service\bin\Debug\net6.0\SynelProject.Service.runtimeconfig.json
+C:\Users\muham\csvToSql\SynelProject.Service\bin\Debug\net6.0\SynelProject.Service.dll
+C:\Users\muham\csvToSql\SynelProject.Service\bin\Debug\net6.0\SynelProject.Service.pdb
+C:\Users\muham\csvToSql\SynelProject.Service\bin\Debug\net6.0\SynelProject.Domain.dll
+C:\Users\muham\csvToSql\SynelProject.Service\bin\Debug\net6.0\SynelProject.Domain.pdb
+C:\Users\muham\csvToSql\SynelProject.Service\obj\Debug\net6.0\SynelProject.Service.csproj.AssemblyReference.cache
+C:\Users\muham\csvToSql\SynelProject.Service\obj\Debug\net6.0\SynelProject.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\csvToSql\SynelProject.Service\obj\Debug\net6.0\SynelProject.Service.AssemblyInfoInputs.cache
+C:\Users\muham\csvToSql\SynelProject.Service\obj\Debug\net6.0\SynelProject.Service.AssemblyInfo.cs
+C:\Users\muham\csvToSql\SynelProject.Service\obj\Debug\net6.0\SynelProject.Service.csproj.CoreCompileInputs.cache
+C:\Users\muham\csvToSql\SynelProject.Service\obj\Debug\net6.0\SynelProject.Service.csproj.CopyComplete
+C:\Users\muham\csvToSql\SynelProject.Service\obj\Debug\net6.0\SynelProject.Service.dll
+C:\Users\muham\csvToSql\SynelProject.Service\obj\Debug\net6.0\refint\SynelProject.Service.dll
+C:\Users\muham\csvToSql\SynelProject.Service\obj\Debug\net6.0\SynelProject.Service.pdb
+C:\Users\muham\csvToSql\SynelProject.Service\obj\Debug\net6.0\SynelProject.Service.genruntimeconfig.cache
+C:\Users\muham\csvToSql\SynelProject.Service\obj\Debug\net6.0\ref\SynelProject.Service.dll

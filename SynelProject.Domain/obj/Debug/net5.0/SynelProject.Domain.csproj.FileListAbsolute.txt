@@ -1,0 +1,15 @@
+C:\Users\muham\csvToSql\SynelProject.Domain\bin\Debug\net5.0\SynelProject.Domain.deps.json
+C:\Users\muham\csvToSql\SynelProject.Domain\bin\Debug\net5.0\SynelProject.Domain.runtimeconfig.json
+C:\Users\muham\csvToSql\SynelProject.Domain\bin\Debug\net5.0\SynelProject.Domain.runtimeconfig.dev.json
+C:\Users\muham\csvToSql\SynelProject.Domain\bin\Debug\net5.0\SynelProject.Domain.dll
+C:\Users\muham\csvToSql\SynelProject.Domain\bin\Debug\net5.0\SynelProject.Domain.pdb
+C:\Users\muham\csvToSql\SynelProject.Domain\obj\Debug\net5.0\SynelProject.Domain.csproj.AssemblyReference.cache
+C:\Users\muham\csvToSql\SynelProject.Domain\obj\Debug\net5.0\SynelProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\csvToSql\SynelProject.Domain\obj\Debug\net5.0\SynelProject.Domain.AssemblyInfoInputs.cache
+C:\Users\muham\csvToSql\SynelProject.Domain\obj\Debug\net5.0\SynelProject.Domain.AssemblyInfo.cs
+C:\Users\muham\csvToSql\SynelProject.Domain\obj\Debug\net5.0\SynelProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\muham\csvToSql\SynelProject.Domain\obj\Debug\net5.0\SynelProject.Domain.dll
+C:\Users\muham\csvToSql\SynelProject.Domain\obj\Debug\net5.0\refint\SynelProject.Domain.dll
+C:\Users\muham\csvToSql\SynelProject.Domain\obj\Debug\net5.0\SynelProject.Domain.pdb
+C:\Users\muham\csvToSql\SynelProject.Domain\obj\Debug\net5.0\SynelProject.Domain.genruntimeconfig.cache
+C:\Users\muham\csvToSql\SynelProject.Domain\obj\Debug\net5.0\ref\SynelProject.Domain.dll

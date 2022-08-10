@@ -1,0 +1,52 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model List<SynelProject.Domain.Models.Employee>
+
+<div class="text-center">
+    <form action="/store-to-database" method="post" enctype="multipart/form-data">
+        <input type="file" name="file" placeholder="Select a file" />
+        <br /> <br />
+        <input type="submit" value="Store to database" class="btn-success rounded btn-group-toggle"/>
+        <br />
+        @if (Model != null)
+        {
+            <table class="table table-sm table-striped table-hover border-bottom">
+                <thead>
+                    <tr>
+                        <td>№</td>
+                        <td>Payroll Number</td>
+                        <td>Forenames</td>
+                        <td>Surename</td>
+                        <td>Date of birth</td>
+                        <td>Phone</td>
+                        <td>Mobile</td>
+                        <td>Address</td>
+                        <td>Address 2</td>
+                        <td>Email</td>
+                        <td>Start date</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var row in Model)
+                    {
+                        <tr>
+                            <td> @(Model.IndexOf(row) + 1) </td>
+                            <td> @row.PayrollNumber </td>
+                            <td> @row.Forenames </td>
+                            <td> @row.Surname </td>
+                            <td> @row.DateOfBirth </td>
+                            <td> @row.Phone </td>
+                            <td> @row.Mobile </td>
+                            <td> @row.Address </td>
+                            <td> @row.Address2 </td>
+                            <td> @row.Email </td>
+                            <td> @row.StartDate </td>
+                        </tr>
+                    }
+                </tbody>
+
+            </table>
+        }
+    </form>
+</div>
